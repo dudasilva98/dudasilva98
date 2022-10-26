@@ -1,0 +1,4 @@
+- 👋 Olá,meu nome é @Eduardasilva
+- meu email de contato é eduarda.fulgencio.silva@escola.pr.gov.br
+- 👀 Estou interessada em aprender novas linguagens
+- 🌱 Eu estou aprendendo a programar recentemente no javascript e Scratch
